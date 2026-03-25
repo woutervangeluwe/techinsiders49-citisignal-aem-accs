@@ -25,7 +25,8 @@
       "form",
       "embed-adaptive-form",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "brandconcierge"
     ]
   },
   {
@@ -441,8 +442,8 @@
       "text-input",
       "tnc",
       "wizard",
-      "range", 
-      "brandconcierge"
+      "range"
+      
     ]
   }
 ]
